@@ -14,8 +14,11 @@ Technology stack:
 • An open-source machine learning framework that provides dynamic computation graphs, making it easier to debug and experiment with models.
 
   Models: CNN
+  
 • CNNs are specifically designed for image recognition tasks.
 
 • They use convolutional layers to automatically extract relevant visual features like edges, textures, shapes, and patterns.
 
 Programming language: Python
+
+dataset link : https://drive.google.com/drive/u/0/folders/1SyFrmAsGGRpgAsOTurbK8TgZixrPhqQR
