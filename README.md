@@ -22,3 +22,9 @@ Technology stack:
 Programming language: Python
 
 dataset link : https://drive.google.com/drive/u/0/folders/1SyFrmAsGGRpgAsOTurbK8TgZixrPhqQR
+
+
+example prediction :
+
+![WhatsApp Image 2025-09-17 at 22 10 53_58ece1d6](https://github.com/user-attachments/assets/9f72f58b-27ae-40e3-af8c-7861bad8e259)
+
